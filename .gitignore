@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files that shouldn't move to git:
+**.cnf
+**.ignore
