@@ -1,2 +1,4 @@
 # ShodanCheck
 Python scripts to utilize Shodan to audit public facing IP addresses.
+
+![Lint](https://github.com/bentleygd/ShodanCheck/workflows/Lint/badge.svg)[![Total alerts](https://img.shields.io/lgtm/alerts/g/bentleygd/ShodanCheck.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/bentleygd/ShodanCheck/alerts/)[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/bentleygd/ShodanCheck.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/bentleygd/ShodanCheck/context:python)[![Known Vulnerabilities](https://snyk.io/test/github/bentleygd/ShodanCheck/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/bentleygd/ShodanCheck?targetFile=requirements.txt)
