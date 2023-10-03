@@ -3,4 +3,4 @@ chardet==3.0.4
 icmplib==1.0.2
 idna==2.9
 requests==2.23.0
-urllib3==1.26.5
+urllib3==1.26.17
